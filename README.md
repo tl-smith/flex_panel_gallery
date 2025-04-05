@@ -1,5 +1,7 @@
 # Flex Panel Image Gallery
 
+This is a **Flex Panel Image Gallery** that leverages HTML, CSS, and JavaScript to create an interactive experience where each panel contains text and an image. The panels expand and collapse when clicked, with smooth animations and transitions that are triggered using JavaScript. This gallery also includes a hover effect, and the text flips 360 degrees when the panel expands.
+
 This gallery showcases a series of images from countries I’ve had the pleasure of visiting, including Spain, Ireland, England, Italy, Cambodia, and India. Each country is represented by a carefully selected image, offering a glimpse into its unique beauty and culture.
 
 The gallery is designed with an engaging and interactive layout. It features two rows of images, each representing a different destination. As you click on each panel, you’ll experience smooth transitions and subtle animations that bring the page to life, enhancing your browsing experience.
